@@ -1,4 +1,6 @@
 # SnakeGPT
 Classic Snake but made by ChatGPT in C#
-# What model of GPT
-3.5.
+# Why?
+For fun.
+# GPT Model?
+ChatGPT 3.5.
